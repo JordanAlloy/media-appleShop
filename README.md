@@ -1,2 +1,2 @@
 # media-shop
-testing Repo performance after several trials
+a demo Apple e-commerce wedsite.
